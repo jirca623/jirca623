@@ -59,7 +59,3 @@
 </p>
 
 ## Proyectos Destacados
-- 🔍 Laboratorios de análisis de vulnerabilidades en entornos Linux  
-- 🛡️ Simulación de ataques y defensas (pentesting básico)  
-- ☁️ Arquitecturas seguras en AWS (IAM, Security Groups, CloudWatch)  
-- 🧪 Pruebas prácticas basadas en OWASP Top 10
