@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="38"/>
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
 
-<img src="https://postimg.cc/9DbvmSBT" alt="portadaJoel">
+<img src="https://i.postimg.cc/pdMxZMh0/Portada-Git-Hub.png" alt="portadaJoel">
 
 <br>
 
