@@ -14,49 +14,49 @@
 - ☁️ Configuración segura en AWS (IAM, monitoreo, control de accesos)
 - 🚀 En formación continua hacia Cloud Security Engineer
 
-## Tecnologias 💻
+## Tecnologías 💻
 
 <p align="left">
 
 <!-- Lenguajes -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Sistemas -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40"/>
 </a>
 
 <!-- Seguridad -->
-<a href="https://owasp.org/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/98681?s=200&v=4" width="36" height="36" alt="OWASP" />
+<a href="https://nmap.org/" target="_blank">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40"/>
 </a>
 
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="36" height="36" alt="Kali Linux" />
+<a href="https://portswigger.net/burp" target="_blank">
+  <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" />
-</a>
-
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" width="36" height="36" alt="Burp Suite" />
+<a href="https://owasp.org/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/98681?s=200&v=4" width="40" height="40"/>
 </a>
 
 <!-- Cloud -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 </a>
 
-<!-- DevOps / Control -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<!-- Control de versiones -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
 </p>
