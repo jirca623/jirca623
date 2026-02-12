@@ -1,4 +1,4 @@
-<img width="512" height="145" alt="image" src="https://github.com/user-attachments/assets/142782c7-04db-4b23-b4bf-13afc7cd44e0" /><div align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="30"/>
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
