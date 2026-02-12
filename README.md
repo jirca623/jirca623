@@ -1,4 +1,4 @@
-<div align="center">
+<img width="512" height="145" alt="image" src="https://github.com/user-attachments/assets/142782c7-04db-4b23-b4bf-13afc7cd44e0" /><div align="center">
   <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="30"/>
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
@@ -19,20 +19,14 @@
 <p align="left">
 
 <!-- Seguridad -->
-<a href="https://owasp.org/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/98681?s=200&v=4" width="36" height="36" alt="OWASP" />
-</a>
 
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="36" height="36" alt="Kali Linux" />
 </a>
 
-<a href="https://nmap.org/" target="_blank" rel="noreferrer">
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<!-- Sistemas -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </a>
 
 <!-- Cloud -->
